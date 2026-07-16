@@ -1,4 +1,4 @@
 streamlit
+st-pages
 pydeck
 pandas
-st-pages
