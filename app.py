@@ -545,7 +545,7 @@ else:
             "types": [
                 "동물"
             ],
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Vulpes_lagopus.jpg",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Arctic_fox_%28Vulpes_lagopus%29_2434.jpg/960px-Arctic_fox_%28Vulpes_lagopus%29_2434.jpg",
         },
         {
             "name": "검은별고사리",
