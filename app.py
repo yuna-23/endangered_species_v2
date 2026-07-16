@@ -538,30 +538,14 @@ else:
             "types": [
                 "동물"
             ],
-            "image_url": (
-                "https://i.namu.wiki/i/"
-                "ZcoHpRfcLvVyW2Dhs58vHkd-"
-                "CfPTdZe4bbi9bm3E30Mvnwe71h_"
-                "fPkD5T3JUlmToxtlL3udpL8ijyyl"
-                "KIY8KIefEnB_vTN4KXKhwY4t-"
-                "HcO6I4psnFkK5S9HadBu3ZRl2Ki"
-                "92SlAv55YKkS3s6KXmQ.webp"
-            ),
+            "image_url": https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG,
         },
         {
             "name": "북극여우",
             "types": [
                 "동물"
             ],
-            "image_url": (
-                "https://i.namu.wiki/i/"
-                "mua5eqLLT8P0ueiN8juGyEqq7XJ-"
-                "pj7NFqWzXCKW-qxQYgqE5F2Ohq3"
-                "IgmW1PLP2x1Xl4g4jHiU26P7vPJ"
-                "p8ykxQhLtL9-DEdAXRVzMAWOwp7E"
-                "l1stsB5U3vS9J9rozCzajxEC9FnR"
-                "NzPVmIgYvZbw.webp"
-            ),
+            "image_url": https://upload.wikimedia.org/wikipedia/commons/c/cf/Vulpes_lagopus.jpg,
         },
         {
             "name": "검은별고사리",
