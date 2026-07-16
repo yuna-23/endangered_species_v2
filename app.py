@@ -538,14 +538,14 @@ else:
             "types": [
                 "동물"
             ],
-            "image_url": https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG",
         },
         {
             "name": "북극여우",
             "types": [
                 "동물"
             ],
-            "image_url": https://upload.wikimedia.org/wikipedia/commons/c/cf/Vulpes_lagopus.jpg,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Vulpes_lagopus.jpg",
         },
         {
             "name": "검은별고사리",
