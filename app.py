@@ -202,10 +202,10 @@ if activity == "1. 멸종위기 야생생물 알아보기":
             )
 
             required_columns = {
-                "번호",
                 "분류군",
                 "등급",
                 "국명",
+                "학명",
             }
 
             missing_columns = (
@@ -272,10 +272,10 @@ if activity == "1. 멸종위기 야생생물 알아보기":
                         st.dataframe(
                             filtered_data[
                                 [
-                                    "번호",
                                     "분류군",
                                     "등급",
                                     "국명",
+                                    "학명",
                                 ]
                             ],
                             hide_index=True,
